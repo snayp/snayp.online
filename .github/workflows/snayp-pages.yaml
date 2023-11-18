@@ -52,7 +52,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "https://snayp.github.io/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
@@ -62,7 +62,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: https://snayp.github.io/
     runs-on: ubuntu-latest
     needs: build
     steps:
