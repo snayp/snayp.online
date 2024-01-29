@@ -14,5 +14,5 @@ jobs:
       uses: reuixiy/hugo-deploy@v1
       env:
         DEPLOY_REPO: snayp/snayp.github.io
-        DEPLOY_BRANCH: gh-pages
+        DEPLOY_BRANCH: build
         DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
