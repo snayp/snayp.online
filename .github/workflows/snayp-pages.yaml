@@ -3,7 +3,7 @@ name: snayp-pages
 on:
   push:
     branches:
-    - master
+    - maшт
 
 jobs:
   build:
