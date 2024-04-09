@@ -63,7 +63,7 @@ jobs:
   deploy:
     environment:
       name: gh-pages
-      url: http://snayp.online
+      url: https://snayp.online
     runs-on: ubuntu-latest
     needs: build
     steps:
