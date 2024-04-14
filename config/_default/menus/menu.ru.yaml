@@ -1,0 +1,27 @@
+main:
+  - name: Блог
+    pageRef: blog
+    weight: 1
+  # - name: Docs
+  #   pageRef: /docs
+  #   weight: 2
+  - name: Автор
+    pageRef: about
+    weight: 3
+  # - name: Contact ↗
+  #   url: "https://github.com/imfing"
+  #   weight: 3
+  - name: Поиск
+    weight: 4
+    params:
+      type: search
+  - name: GitHub
+    weight: 5
+    url: "https://github.com/snayp"
+    params:
+      icon: github
+  # - name: Twitter
+  #   weight: 6
+  #   url: "https://twitter.com/"
+  #   params:
+  #     icon: x-twitter

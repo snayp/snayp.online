@@ -1,0 +1,155 @@
+- id: toggle_navigation
+  translation: Переключить навигацию
+- id: table_of_contents
+  translation: Содержание
+- id: on_this_page
+  translation: На этой странице
+- id: back_to_top
+  translation: На верх
+- id: related
+  translation: Похожее
+- id: minute_read
+  translation: мин. для прочтения
+- id: previous
+  translation: позже 
+- id: next
+  translation: раньше
+- id: figure
+  translation: 'Схема № %d:'
+- id: btn_preprint
+  translation: Предварительная печать
+- id: btn_pdf
+  translation: PDF
+- id: btn_cite
+  translation: Процитировать
+- id: btn_slides
+  translation: Слайды
+- id: btn_video
+  translation: Видео
+- id: btn_code
+  translation: Код
+- id: btn_dataset
+  translation: Набор данных
+- id: btn_project
+  translation: Проект
+- id: btn_poster
+  translation: Постер
+- id: btn_source
+  translation: Исходный документ
+- id: btn_copy
+  translation: Копия
+- id: btn_download
+  translation: Скачать
+- id: interests
+  translation: Интересы
+- id: education
+  translation: Образование
+- id: user_profile_latest
+  translation: Новые публикации этого автора
+- id: org_latest
+  translation: Последние события этого организатора
+- id: see_certificate
+  translation: Посмотреть сертификат
+- id: present
+  translation: Настоящий
+- id: more_featured
+  translation: Посмотреть избранное
+- id: more_posts
+  translation: Читать блог
+- id: more_talks
+  translation: Просмотреть события
+- id: more_publications
+  translation: Больше публикаций
+- id: contact_name
+  translation: Ваше имя
+- id: contact_email
+  translation: Почта для обратной связи
+- id: contact_message
+  translation: Ваше сообщение
+- id: contact_send
+  translation: Отправить
+- id: book_appointment
+  translation: Назначить встречу
+- id: abstract
+  translation: Главное
+- id: publication
+  translation: Публикация
+- id: publication_type
+  translation: Тип
+- id: date
+  translation: Когда?
+- id: last_updated
+  translation: Обновлено
+- id: event
+  translation: Что?
+- id: location
+  translation: Где?
+- id: uncat
+  translation: без-категории
+- id: gallery
+  translation: фото альбом
+- id: event
+  translation: событие
+- id: snippet
+  translation: пример кода
+- id: translation
+  translation: перевод
+- id: management
+  translation: управление
+- id: doc
+  translation: документ
+- id: opinion
+  translation: мнение
+- id: news
+  translation: новость
+- id: personal
+  translation: личное
+
+- id: audio
+  translation: музыка
+- id: open_project_site
+  translation: Внешний сайт
+- id: posts
+  translation: посты
+- id: post
+  translation: пост
+- id: publications
+  translation: типы
+- id: publication
+  translation: тип
+- id: talks
+  translation: встречи
+- id: projects
+  translation: Проекты
+- id: search
+  translation: Поиск
+- id: search_placeholder
+  translation: Поиск ...
+- id: search_results
+  translation: результат найден
+- id: search_no_results
+  translation: результат не найден
+- id: page_not_found
+  translation: Страница не найдена
+- id: 404_recommendations
+  translation: Возможно будет интересен один из новых постов?
+- id: cookie_message
+  translation: Для комфорной навигации на этом сайте используются куки (cookies).
+- id: cookie_dismiss
+  translation: Понял!
+- id: cookie_learn
+  translation: Узнать о cookie политике
+
+- id: powered_by
+  translation: "{year} &copy; Сделано с помощью " 
+
+- id: tags
+  translation: "темы" 
+- id: categories
+  translation: "категории"   
+- id: tag
+  translation: "тема" 
+- id: category
+  translation: "категория" 
+- id: author
+  translation: "автор" 
