@@ -12,7 +12,7 @@ on:
 permissions:
   contents: read
   pages: write
-  id-token: write
+  id-token: ${{ secrets.DEPLOY_KEY }}
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
@@ -70,5 +70,4 @@ jobs:
     - name: Hugo to GH Pages
       uses: chabad360/hugo-gh-pages@v2
       with:
-        githubToken: ${{ secrets.DEPLOY_KEY }}
-      
+        GITHUB-PAGES: ${{ secrets.DEPLOY_KEY }}
