@@ -1,7 +1,7 @@
 # Hugo configuration file
 title: snayp.online
 
-baseURL: https://snayp.online/
+baseURL: https://snayp.online
 
 # import hextra as module
 module:
