@@ -8,6 +8,6 @@ toc: false
 ## Содержание
 
 {{< cards >}}
-  {{< card link="blog" title="Блог" icon="user-cэircle" >}}
+  {{< card link="blog" title="Блог" icon="user-circle" >}}
   {{< card link="about" title="Автор" icon="user" >}}
 {{< /cards >}}
